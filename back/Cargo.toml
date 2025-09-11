@@ -22,7 +22,7 @@ log = "0.4.22"
 env_logger = "0.11.8"
 # Error handling
 thiserror = "1.0.64"
-surrealdb = { version = "2.3.7", features = ["protocol-ws", "protocol-http"] }
+surrealdb = { version = "2.3.8", features = ["protocol-ws", "protocol-http"] }
 
 [dev-dependencies]
 # Mock HTTP requests for testing external APIs
