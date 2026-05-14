@@ -49,6 +49,21 @@ See the [frontend README](./front/README.md) for detailed information.
 
 The backend is built with Rust, offering high performance and reliability.
 
+<!--
+# Cards features
+
+- Card have evolutions
+- Each card is unique (NFT-like) - evolution paths create unique cards
+- Cards can be traded between players and viewers
+- Real-time updates
+- Card packs can be purchased with in-app currency
+- Admin panel for managing cards, for example adding new cards, editing stats, create packs with codes to distribute with limited usage, etc.
+- Analytics dashboard for tracking card usage and popularity
+
+# Players features
+- Can signup as participant in a team
+-->
+
 Key technologies:
 - Rust programming language
 - Actix web framework
